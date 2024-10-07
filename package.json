@@ -1,0 +1,27 @@
+{
+  "name": "michael_ouazzani",
+  "version": "1.0.0",
+  "description": "How to Use package.json, the Core of Any Node.js Project or npm Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "(echo \"Error: no test specified\" && exit 1)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeOisCool/How-to-Use-package.json.git"
+  },
+  "keywords": [
+    "(empty)",
+    "package.json",
+    "npm",
+    "nodejs",
+    "tutorial",
+    "how-to"
+  ],
+  "author": "Michael Ouazzani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeOisCool/How-to-Use-package.json/issues"
+  },
+  "homepage": "https://github.com/MikeOisCool/How-to-Use-package.json#readme"
+}
